@@ -1,0 +1,20 @@
+0.7
+2020.1
+May 27 2020
+20:09:33
+E:/Habib University/Computer Architecture/Labs/Lab 11/CA_Lab_11/CA_Lab_11.sim/sim_1/behav/xsim/glbl.v,1590624368,verilog,,,,glbl,,,,,,,,
+E:/Habib University/Computer Architecture/Labs/Lab 11/CA_Lab_11/CA_Lab_11.srcs/sim_1/new/tb_RISC_V_Processor.v,1680246572,verilog,,E:/Habib University/Computer Architecture/Labs/Lab 11/CA_Lab_11/CA_Lab_11.srcs/sim_1/new/tb_task2.v,,tb_RISC_V_Processor,,,,,,,,
+E:/Habib University/Computer Architecture/Labs/Lab 11/CA_Lab_11/CA_Lab_11.srcs/sim_1/new/tb_task2.v,1680686771,verilog,,,,tb_task2,,,,,,,,
+E:/Habib University/Computer Architecture/Labs/Lab 11/CA_Lab_11/CA_Lab_11.srcs/sources_1/new/ALU_64_bit.v,1680239040,verilog,,E:/Habib University/Computer Architecture/Labs/Lab 11/CA_Lab_11/CA_Lab_11.srcs/sources_1/new/ALU_Control.v,,ALU_64_bit,,,,,,,,
+E:/Habib University/Computer Architecture/Labs/Lab 11/CA_Lab_11/CA_Lab_11.srcs/sources_1/new/ALU_Control.v,1680239480,verilog,,E:/Habib University/Computer Architecture/Labs/Lab 11/CA_Lab_11/CA_Lab_11.srcs/sources_1/new/Adder.v,,ALU_Control,,,,,,,,
+E:/Habib University/Computer Architecture/Labs/Lab 11/CA_Lab_11/CA_Lab_11.srcs/sources_1/new/Adder.v,1680729536,verilog,,E:/Habib University/Computer Architecture/Labs/Lab 11/CA_Lab_11/CA_Lab_11.srcs/sources_1/new/Control_Unit.v,,Adder,,,,,,,,
+E:/Habib University/Computer Architecture/Labs/Lab 11/CA_Lab_11/CA_Lab_11.srcs/sources_1/new/Control_Unit.v,1680239636,verilog,,E:/Habib University/Computer Architecture/Labs/Lab 11/CA_Lab_11/CA_Lab_11.srcs/sources_1/new/Data_Memory.v,,Control_Unit,,,,,,,,
+E:/Habib University/Computer Architecture/Labs/Lab 11/CA_Lab_11/CA_Lab_11.srcs/sources_1/new/Data_Memory.v,1680239212,verilog,,E:/Habib University/Computer Architecture/Labs/Lab 11/CA_Lab_11/CA_Lab_11.srcs/sources_1/new/ImmGen.v,,Data_Memory,,,,,,,,
+E:/Habib University/Computer Architecture/Labs/Lab 11/CA_Lab_11/CA_Lab_11.srcs/sources_1/new/ImmGen.v,1680243216,verilog,,E:/Habib University/Computer Architecture/Labs/Lab 11/CA_Lab_11/CA_Lab_11.srcs/sources_1/new/InsParser.v,,ImmGen,,,,,,,,
+E:/Habib University/Computer Architecture/Labs/Lab 11/CA_Lab_11/CA_Lab_11.srcs/sources_1/new/InsParser.v,1680243670,verilog,,E:/Habib University/Computer Architecture/Labs/Lab 11/CA_Lab_11/CA_Lab_11.srcs/sources_1/new/Instruction_Memory.v,,InsParser,,,,,,,,
+E:/Habib University/Computer Architecture/Labs/Lab 11/CA_Lab_11/CA_Lab_11.srcs/sources_1/new/Instruction_Memory.v,1680678853,verilog,,E:/Habib University/Computer Architecture/Labs/Lab 11/CA_Lab_11/CA_Lab_11.srcs/sources_1/new/Mux.v,,Instruction_Memory,,,,,,,,
+E:/Habib University/Computer Architecture/Labs/Lab 11/CA_Lab_11/CA_Lab_11.srcs/sources_1/new/Mux.v,1680242064,verilog,,E:/Habib University/Computer Architecture/Labs/Lab 11/CA_Lab_11/CA_Lab_11.srcs/sources_1/new/Program_Counter.v,,Mux,,,,,,,,
+E:/Habib University/Computer Architecture/Labs/Lab 11/CA_Lab_11/CA_Lab_11.srcs/sources_1/new/Program_Counter.v,1680728848,verilog,,E:/Habib University/Computer Architecture/Labs/Lab 11/CA_Lab_11/CA_Lab_11.srcs/sources_1/new/RegisterFile.v,,Program_Counter,,,,,,,,
+E:/Habib University/Computer Architecture/Labs/Lab 11/CA_Lab_11/CA_Lab_11.srcs/sources_1/new/RISC_V_Processor.v,1680246242,verilog,,E:/Habib University/Computer Architecture/Labs/Lab 11/CA_Lab_11/CA_Lab_11.srcs/sources_1/new/modified-RISC_V_Processor.v,,RISC_V_Processor,,,,,,,,
+E:/Habib University/Computer Architecture/Labs/Lab 11/CA_Lab_11/CA_Lab_11.srcs/sources_1/new/RegisterFile.v,1680238954,verilog,,E:/Habib University/Computer Architecture/Labs/Lab 11/CA_Lab_11/CA_Lab_11.srcs/sources_1/new/RISC_V_Processor.v,,RegisterFile,,,,,,,,
+E:/Habib University/Computer Architecture/Labs/Lab 11/CA_Lab_11/CA_Lab_11.srcs/sources_1/new/modified-RISC_V_Processor.v,1680728377,verilog,,E:/Habib University/Computer Architecture/Labs/Lab 11/CA_Lab_11/CA_Lab_11.srcs/sim_1/new/tb_RISC_V_Processor.v,,modified_RISC_V_Processor,,,,,,,,

@@ -1,0 +1,27 @@
+Vivado Simulator 2020.1
+Copyright 1986-1999, 2001-2020 Xilinx, Inc. All Rights Reserved.
+Running: F:/Vivado/2020.1/bin/unwrapped/win64.o/xelab.exe -wto 5700eb1b5d224a2a97097668ce52c093 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot tb_task2_behav xil_defaultlib.tb_task2 xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+WARNING: [VRFC 10-3091] actual bit length 1 differs from formal bit length 64 for port 'Data_Mem_ReadData' [E:/Habib University/Computer Architecture/Labs/Lab 11/CA_Lab_11/CA_Lab_11.srcs/sim_1/new/tb_task2.v:39]
+WARNING: [VRFC 10-3091] actual bit length 1 differs from formal bit length 64 for port 'b' [E:/Habib University/Computer Architecture/Labs/Lab 11/CA_Lab_11/CA_Lab_11.srcs/sources_1/new/modified-RISC_V_Processor.v:49]
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.Program_Counter
+Compiling module xil_defaultlib.Adder
+Compiling module xil_defaultlib.Instruction_Memory
+Compiling module xil_defaultlib.InsParser
+Compiling module xil_defaultlib.Control_Unit
+Compiling module xil_defaultlib.RegisterFile
+Compiling module xil_defaultlib.ImmGen
+Compiling module xil_defaultlib.ALU_Control
+Compiling module xil_defaultlib.Mux
+Compiling module xil_defaultlib.ALU_64_bit
+Compiling module xil_defaultlib.Data_Memory
+Compiling module xil_defaultlib.modified_RISC_V_Processor
+Compiling module xil_defaultlib.tb_task2
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot tb_task2_behav

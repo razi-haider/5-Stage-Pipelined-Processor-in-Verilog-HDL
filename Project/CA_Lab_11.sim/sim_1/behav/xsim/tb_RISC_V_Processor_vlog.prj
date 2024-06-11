@@ -1,0 +1,21 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../CA_Lab_11.srcs/sources_1/new/ALU_64_bit.v" \
+"../../../../CA_Lab_11.srcs/sources_1/new/ALU_Control.v" \
+"../../../../CA_Lab_11.srcs/sources_1/new/Adder.v" \
+"../../../../CA_Lab_11.srcs/sources_1/new/Control_Unit.v" \
+"../../../../CA_Lab_11.srcs/sources_1/new/Data_Memory.v" \
+"../../../../CA_Lab_11.srcs/sources_1/new/ImmGen.v" \
+"../../../../CA_Lab_11.srcs/sources_1/new/InsParser.v" \
+"../../../../CA_Lab_11.srcs/sources_1/new/Instruction_Memory.v" \
+"../../../../CA_Lab_11.srcs/sources_1/new/Mux.v" \
+"../../../../CA_Lab_11.srcs/sources_1/new/Program_Counter.v" \
+"../../../../CA_Lab_11.srcs/sources_1/new/RegisterFile.v" \
+"../../../../CA_Lab_11.srcs/sources_1/new/RISC_V_Processor.v" \
+"../../../../CA_Lab_11.srcs/sim_1/new/tb_RISC_V_Processor.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
